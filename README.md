@@ -3,6 +3,10 @@ ImageScaleCropping
 
 ios 从相册选择图片，按照比例(3:2)裁剪图片
 
+截图:
+-----------
+[!截图1](https://raw.githubusercontent.com/justzt/ImageScaleCropping/master/screenShot1.png)
+[!截图2](https://raw.githubusercontent.com/justzt/ImageScaleCropping/master/screenShot2.png)
 如何使用：
 -----------
 
